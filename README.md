@@ -5,7 +5,8 @@ Technologi use :
 * React Native 
 * with Expo
 * React Navigation
-* #rd Party API
+* Redux
+* 3rd Party API
 
 ### Utillity
 ```
